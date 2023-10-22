@@ -1,0 +1,6 @@
+name: EconomyExtractor
+version: '${version}'
+main: gq.francypro149.economyextractor.EconomyExtractor
+api-version: '1.20'
+authors: [FrancyPro]
+description: Plugin per la conversione del bilancio da Economy++ a HexaEcon
